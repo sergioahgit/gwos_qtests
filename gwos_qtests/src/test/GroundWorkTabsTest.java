@@ -8,8 +8,8 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import framework.common.ui.interact.page.LoginPage;
-import framework.common.ui.interact.page.GroundWorkTabs;
+import framework.commons.ui.interact.page.GroundWorkTabs;
+import framework.commons.ui.interact.page.LoginPage;
 import framework.commons.util.Time;
 import framework.driver.WebDriverManager;
 import framework.factory.WebDriverManagerFactory;

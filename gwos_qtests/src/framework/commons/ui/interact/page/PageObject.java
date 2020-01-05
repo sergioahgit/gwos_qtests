@@ -1,4 +1,4 @@
-package framework.common.ui.interact.page;
+package framework.commons.ui.interact.page;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
