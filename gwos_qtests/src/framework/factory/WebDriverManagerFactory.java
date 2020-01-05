@@ -5,7 +5,7 @@ import framework.driver.FirefoxWebDriverManager;
 
 /*
  * This is an factory class in charge of creating WebDrivers.
- * FirefoxDriverManager, ChromeDriverManager, and any additional managers.
+ * FirefoxWebDriverManager, ChromeWebDriverManager, and any additional managers.
  * 
  * @author : Sergio A. Hernandez
  * @version : 1.0
@@ -31,7 +31,7 @@ public class WebDriverManagerFactory {
 		
 			case FIREFOX: {
 			
-				webDriverManager = new h( );
+				webDriverManager = new FirefoxWebDriverManager( );
 				break;
 			}
 			

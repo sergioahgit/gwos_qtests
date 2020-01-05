@@ -1,10 +1,7 @@
 package framework.common.ui.interact.page;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 
 import framework.commons.ui.condition.page.ScrollToBottomPage;
 import framework.commons.ui.util.Wait;
